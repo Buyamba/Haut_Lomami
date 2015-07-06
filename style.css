@@ -1,0 +1,13 @@
+body p h1{
+	margin:auto;
+}
+
+#map-canvas{
+	width: 800px;
+	height: 500px;
+	margin:auto;
+	margin-left:0px;
+	background-color: #D5E;
+	margin: auto;
+}
+
